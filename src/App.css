@@ -1,0 +1,48 @@
+.App{
+  
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+align-items: center;
+}
+
+input{
+  padding: 4px;
+  margin-right: 8px
+}
+
+ul{
+  list-style: none;
+  
+}
+
+li{
+  margin: 12px 0;
+  
+}
+
+.bar{
+  width: 500px;
+  margin-bottom: 10px;
+}
+
+.add-button{
+  width: 200px;
+  height: 30px;
+  color: rgb(17, 245, 74);
+  background-color: rgb(10, 10, 10);
+  
+}
+
+.delete-button{
+  
+  font-size: 10px;
+  margin-left: 8px;
+
+  border: none;
+  color: white;
+  border-radius: 4px;
+  
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
